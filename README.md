@@ -67,7 +67,7 @@ https://drive.google.com/file/d/16U0vs1EUEM92Dc91XjWBUZtoXu3gYFNH/view?usp=drive
 <hr>
 
 ومن هنا تبدا تتعلم اي تراك انت عاوزوا وتخش في اي Techincal انت حاببها 
-هشارك معاك التراك الي انا بدات فيه وده حاجه مش لازم دي علي حسب انت حابب اي
+هشارك معاك التراك الي انا بدات فيه هو Fullstack(React, PHP)وده حاجه مش لازم دي علي حسب انت حابب اي
 https://drive.google.com/drive/folders/1i1JttrWmEJV64SAnw2j2_m7aWdIPXoDE?usp=drive_link
 هتلاقي كل حاجه هنا وهتفيدك جدا 
 
