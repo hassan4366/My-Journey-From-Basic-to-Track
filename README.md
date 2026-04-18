@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1Vhf8qMfIBNQxLUeWCfVTp9X9Q5fMdrIA/view?usp=drive
 
 <hr>
 
-هنخش علي تاني مرحله بعد التأسيس ويعد اما تحل كويس وتتاكد انك فهمت نخش علي مرحله متقدمه وهي Object Oriented Programming(OOP)هتذاكر من مصدر واحد برضو زي مقولنا وهنا اكثر حد هيفيدك وبيشرح بطريقه بسيطه جدا دكتور محمد الدسوقي https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=SzP8BKp_YH0ZDqDu
+هنخش علي تاني مرحله بعد التأسيس وبعد اما تحل كويس وتتاكد انك فهمت نخش علي مرحله متقدمه وهي Object Oriented Programming(OOP)هتذاكر من مصدر واحد برضو زي مقولنا وهنا اكثر حد هيفيدك وبيشرح بطريقه بسيطه جدا دكتور محمد الدسوقي https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=SzP8BKp_YH0ZDqDu
 
 واكيد انت مكمل حل مسائل لو كل يوم مسأله هتفرق معاك جدا
 
@@ -37,23 +37,25 @@ https://drive.google.com/file/d/1Vhf8qMfIBNQxLUeWCfVTp9X9Q5fMdrIA/view?usp=drive
 Data_Base ,هنا هتتدرسها من الراجل العظيم محمد الدسوقي شرحها ببساطه جدا
 https://youtube.com/playlist?list=PL37D52B7714788190&si=WBY9kPBmUI9bdNYR
 
-وممكن تبص علي الاسليدات دي https://drive.google.com/drive/folders/1ToXbU6SrZXF1dPvixwFZAJbEytwajV1_?usp=drive_link
+   وممكن تبص علي الاسليدات دي موضحه كل شابتر هتدرس اي وهتتعامل مع اي:
+   https://drive.google.com/drive/folders/1ToXbU6SrZXF1dPvixwFZAJbEytwajV1_?usp=drive_link
 
 <hr>
 
 ثم الانتقال الي 
 Operating System ,وهنا مش هتسمع بلاي ليست ممكن بص علي PDF https://drive.google.com/drive/folders/1USUl8GJRvJXd1YPLhWc-x-9Ily_x2IQd?usp=drive_link
-ولو حابب تسمع فيديوهات ممكن تسمع دكنور احمد حجاج 
+ولو حابب تسمع فيديوهات ممكن تسمع دكتور احمد حجاج 
 https://youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY&si=l_lNegaYrGzx55Ba
 
 <hr>
 
 نخش علي مرحله مهمه جدا لاي شخص حتي الي برا مجال Computer Science 
 وهي ال Algorithm مهمه جدا وهتععلم منها حااجات كتيره 
-وهنا هرشحلك كورس دكتور احمد الرفاعي متاز جدا 
+وهنا هرشحلك كورس دكتور احمد الرفاعي ممتاز جدا 
 https://www.udemy.com/share/104zmC3@siGuIVOHXQjhT70Zl6uEj4Fs-74eoQvwHtcMZ8ZjhikM-aftpjJifKphHRJ0VLI_Wg==/
 
-وممكن تبص علي الفايل ده هيفيدك جدا https://drive.google.com/file/d/16U0vs1EUEM92Dc91XjWBUZtoXu3gYFNH/view?usp=drive_link
+وممكن تبص علي الفايل ده هيفيدك جدا "ملحوظه هو مش شارح كل حاجه في الالجورزم 
+https://drive.google.com/file/d/16U0vs1EUEM92Dc91XjWBUZtoXu3gYFNH/view?usp=drive_link
 
 <hr>
 
@@ -68,6 +70,25 @@ https://www.udemy.com/share/104zmC3@siGuIVOHXQjhT70Zl6uEj4Fs-74eoQvwHtcMZ8ZjhikM
 هشارك معاك التراك الي انا بدات فيه وده حاجه مش لازم دي علي حسب انت حابب اي
 https://drive.google.com/drive/folders/1i1JttrWmEJV64SAnw2j2_m7aWdIPXoDE?usp=drive_link
 هتلاقي كل حاجه هنا وهتفيدك جدا 
+
+
+<hr>
+
+الدرايف ده عليه كل المصادر جمعتهالك في ملف واحد بحيث تقدر توصل لكل حاجه بسرعه 
+
+https://drive.google.com/drive/folders/1nxplm10M8hwHi1S3he7MlpSgAhrgMIon
+
+<hr>
+
+انشاء الله قريب هعمل ريبو لكل Point في مرحله التاسيس وازاي تمشي فيها واي النقاط الي انت تذاكرها 
+هنتكلم علي :
+
+
+**CPP Basic**
+**Object oriented Programming**
+**Data Structure**
+**Algorithm**
+**Basic Topic** "الخاصه بالجزء Technical"
 
 
 <hr>
